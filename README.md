@@ -9,6 +9,7 @@ LIF 뉴런 시뮬레이션
 - PyTorch
 - Matplotlib
 
+##참고
 - Claude를 이용하여 코드를 참고
 
 
