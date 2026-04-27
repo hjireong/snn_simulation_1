@@ -1,6 +1,6 @@
 # snn_simulation_1
 
-LIF 뉴런 시뮬레이션
+LIF 뉴런 시뮬레이션 LIF neuron simulation
 
 ## 내용
 - LIF(Leaky Integrate-and-Fire) 뉴런 동작 구현
